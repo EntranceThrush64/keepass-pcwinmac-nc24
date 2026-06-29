@@ -1,4 +1,4 @@
-# 
+# Personalizado KeePass extensiones para Mac OS | Ligero KeePass extensiones para PC Windows. Con ofuscación y escaneo de virus — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
